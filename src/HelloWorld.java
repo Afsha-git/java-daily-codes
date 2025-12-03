@@ -26,7 +26,6 @@ public class HelloWorld {
            String name = sc.nextLine();
            int age = sc.nextInt();
            //nextInt()
-           //nextfloat()
         System.out.println(name);
         System.out.println(age);
     }
