@@ -1,6 +1,6 @@
-package JAVATOPCODES;
-import java.util.*;
-public class HelloWorld {
+package JAVATOPCODES.basics;
+
+public class HelloWorldProgram {
     public static void main(String args[]){
         System.out.println("hello world");
     }

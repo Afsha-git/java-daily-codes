@@ -1,4 +1,4 @@
-package JAVATOPCODES;
+package JAVATOPCODES.loops;
 
 import java.util.Scanner;
 
