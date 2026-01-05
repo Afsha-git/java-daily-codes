@@ -40,7 +40,6 @@ public class PractiseLoops {
                 System.out.println(" run");
             }
 
-            // menu driven program
 
         }
 
