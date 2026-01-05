@@ -1,3 +1,4 @@
+
 package JAVATOPCODES.patterns;
 import java.util.*;
 
@@ -7,16 +8,16 @@ The number of stars decreases in each row.
 In the first row, we print 4 stars, and in each next row one star less.
 Therefore, the inner loop runs from 1 to (n − i + 1).*/
 
-public class InvertHalfPyramid {
+public class Invert180HalfPyramid {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int m = sc.nextInt();
         //outer loop
-        for (int i = n; i >=1 ; i--) { // i to 4
+        for (int i = 1; i <=n ; i++) {
             //inner loop
-            for (int j = 1; j <=i ; j++) { // j < = n- i+ 1
-                System.out.print("*");
+            for (int j = 1; j <=m ; j++) {
+
             }
             System.out.println();
         }
