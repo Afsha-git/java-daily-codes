@@ -1,6 +1,9 @@
 package JAVATOPCODES.practise;
 /* practice one more time with explaining logic specisally
 * even and odd up to n
+* prime number
+* fibonocii
+* and loops programs
 * */
 public class MockTest {
     public static void main(String[] args) {
@@ -70,6 +73,4 @@ public class MockTest {
             System.out.print(2*i + " ");
         }
     }
-
-
 }
