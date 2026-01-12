@@ -1,3 +1,13 @@
+
+/*
+*->Why does the loop go till < n and not <= n?
+Because every number is divisible by itself.
+If we check n % n, it will always be 0 and incorrectly mark primes as non-prime.
+*
+* -> O(n), because we check divisibility up to n.
+*  */
+
+
 package JAVATOPCODES.functions;
 
 import java.util.Scanner;
