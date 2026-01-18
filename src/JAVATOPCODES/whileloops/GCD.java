@@ -1,3 +1,15 @@
+/*
+GCD (Greatest Common Divisor)
+→ The largest number that divides both numbers completely.
+  Core Rule (MEMORIZE THIS)
+
+GCD(a, b) = GCD(b, a % b)
+
+Repeat until b == 0.
+
+“I’ll use Euclid’s algorithm because it’s efficient and widely used for GCD.”
+ */
+
 package JAVATOPCODES.whileloops;
 
 public class GCD {
