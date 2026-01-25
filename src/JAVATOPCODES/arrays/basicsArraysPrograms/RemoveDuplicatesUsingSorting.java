@@ -48,7 +48,7 @@ import java.util.Arrays;
 public class RemoveDuplicatesUsingSorting {
     public static void main(String[] args) {
 
-        int arr[] = {5, 3, 33, 33, 44, 5};
+        int arr[] = {5,5, 3, 33, 33, 44, };
 
         // Step 1: Sort the array
         Arrays.sort(arr);
